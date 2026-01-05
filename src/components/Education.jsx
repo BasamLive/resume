@@ -7,7 +7,8 @@ export default function Eduction() {
         <span>React · JavaScript · Node.js</span>
       </div>
       <div className="item">
-        <h4>Library and information science</h4>
+        <h4>El Neelain University - Khartoum Sudan</h4>
+        <span>B.A. of Library and information science 2009 - 2012</span>
       </div>
     </section>
   );
