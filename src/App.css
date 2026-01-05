@@ -182,6 +182,19 @@ body {
 .header p {
   color: var(--muted);
 }
+.print-button {
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 6px 12px;
+  border-radius: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.print-button:hover {
+  background: var(--skill-bg);
+}
 
 .contact a {
   margin-right: 16px;
@@ -210,6 +223,22 @@ body {
   font-size: 0.9rem;
   margin-bottom: 7px;
   color: var(--text);
+}
+
+@media print {
+  .theme-toggle,
+  .print-button {
+    display: none;
+  }
+  body {
+    background: white;
+  }
+
+  .resume-container {
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+  }
 }
 @media (max-width: 768px) {
   .resume-container {
