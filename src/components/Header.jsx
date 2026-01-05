@@ -8,7 +8,7 @@ const Header = () => {
       </div>
       <h1>Basam mohamed aslm</h1>
       <h2>React.js Developer</h2>
-      <p>JavaScript . React Node.js REST APIs. CSS</p>
+      <p>JavaScript · React · Node.js REST APIs · CSS</p>
     </header>
   );
 };

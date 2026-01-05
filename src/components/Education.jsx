@@ -4,7 +4,10 @@ export default function Eduction() {
       <h3 className="section-title">Education</h3>
       <div className="item">
         <h4>Self-Taught Web Development</h4>
-        <span>React . JavaScript . Node.js</span>
+        <span>React · JavaScript · Node.js</span>
+      </div>
+      <div className="item">
+        <h4>Library and information science</h4>
       </div>
     </section>
   );

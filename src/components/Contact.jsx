@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     <section className="section contact">
-      <h3 className="section-title">Contact</h3>
+      <h3 className="section-title">Contacts</h3>
       <a href="mailto:basambasam@hotmail.com">Email</a>
       <a href="https://github.com/">GitHub</a>
       <a href="https://linkedin.com/basabasam">LinkedIn</a>

@@ -4,7 +4,7 @@ const Experience = () => {
       <h3 className="section-title">Experience</h3>
       <div className="item">
         <h4>Frontend Developer</h4>
-        <span>Freelance . 2022 - present</span>
+        <span>Freelance · 2022 - present</span>
         <p>
           Built a responsive web interfaces using React and modern CSS. Focused
           on performance, accessibility and clean code.
@@ -12,7 +12,7 @@ const Experience = () => {
       </div>
       <div className="item">
         <h4>Frontend Developer - Personal</h4>
-        <span>React . JavaScript . APIs</span>
+        <span>React · JavaScript · APIs</span>
         <ul>
           <li>
             Developed a weather application using React and a public weather API
