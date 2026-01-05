@@ -23,7 +23,7 @@ const Experience = () => {
             handling using modern JavaScript
           </li>
           <li>
-            Designed responsive UI with reysabke components and clean styling
+            Designed responsive UI with reusable components and clean styling
             for both light and dark themes
           </li>
         </ul>
