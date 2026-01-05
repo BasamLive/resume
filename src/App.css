@@ -89,11 +89,7 @@ body {
   color: var(--muted);
 }
 .skill {
-  /* display: flex;
-  flex-wrap: wrap;
-  gap: 12px; */
   position: relative;
-  margin: 4px 8px;
   padding: 6px 14px;
   font-size: 0.85rem;
   font-weight: 500;
@@ -103,6 +99,12 @@ body {
   border-radius: 999px;
   cursor: default;
   transition: all 0.2s ease;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
 .skill-frontend {
