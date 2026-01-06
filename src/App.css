@@ -239,6 +239,10 @@ body {
     padding: 0;
     margin: 0;
   }
+
+  .header {
+    margin: 10px;
+  }
 }
 @media (max-width: 768px) {
   .resume-container {

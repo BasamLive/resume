@@ -1,3 +1,5 @@
+// the array that i will map through to generate the skills
+
 const skillsGroups = [
   {
     title: "Frontend",
