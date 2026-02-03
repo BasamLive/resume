@@ -4,7 +4,15 @@ const skillsGroups = [
   {
     title: "Frontend",
     color: "frontend",
-    skills: ["React", "JavaScript (ES6+)", "HTML5", "CSS3", "Flexbox", "Grid"],
+    skills: [
+      "React",
+      "JavaScript (ES6+)",
+      "Typescript",
+      "HTML5",
+      "CSS3",
+      "Flexbox",
+      "Grid",
+    ],
   },
   {
     title: "Backend",
